@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\Examples\Example001_HelloCode\bin\Debug\net6.0\Example001_HelloCode.exe
+C:\Users\acer\Desktop\Examples\Example001_HelloCode\bin\Debug\net6.0\Example001_HelloCode.deps.json
+C:\Users\acer\Desktop\Examples\Example001_HelloCode\bin\Debug\net6.0\Example001_HelloCode.runtimeconfig.json
+C:\Users\acer\Desktop\Examples\Example001_HelloCode\bin\Debug\net6.0\Example001_HelloCode.dll
+C:\Users\acer\Desktop\Examples\Example001_HelloCode\bin\Debug\net6.0\ref\Example001_HelloCode.dll
+C:\Users\acer\Desktop\Examples\Example001_HelloCode\bin\Debug\net6.0\Example001_HelloCode.pdb
+C:\Users\acer\Desktop\Examples\Example001_HelloCode\obj\Debug\net6.0\Example001_HelloCode.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Examples\Example001_HelloCode\obj\Debug\net6.0\Example001_HelloCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Examples\Example001_HelloCode\obj\Debug\net6.0\Example001_HelloCode.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Examples\Example001_HelloCode\obj\Debug\net6.0\Example001_HelloCode.AssemblyInfo.cs
+C:\Users\acer\Desktop\Examples\Example001_HelloCode\obj\Debug\net6.0\Example001_HelloCode.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Examples\Example001_HelloCode\obj\Debug\net6.0\Example001_HelloCode.dll
+C:\Users\acer\Desktop\Examples\Example001_HelloCode\obj\Debug\net6.0\ref\Example001_HelloCode.dll
+C:\Users\acer\Desktop\Examples\Example001_HelloCode\obj\Debug\net6.0\Example001_HelloCode.pdb
+C:\Users\acer\Desktop\Examples\Example001_HelloCode\obj\Debug\net6.0\Example001_HelloCode.genruntimeconfig.cache
